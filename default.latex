@@ -492,6 +492,7 @@ $if(colorlinks)$
 $endif$
 \setcounter{tocdepth}{$toc-depth$}
 \tableofcontents
+\clearpage
 }
 $endif$
 $endif$
